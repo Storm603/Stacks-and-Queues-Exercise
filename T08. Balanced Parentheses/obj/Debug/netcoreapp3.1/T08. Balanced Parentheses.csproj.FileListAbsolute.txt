@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\bin\Debug\netcoreapp3.1\T08. Balanced Parentheses.exe
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\bin\Debug\netcoreapp3.1\T08. Balanced Parentheses.deps.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\bin\Debug\netcoreapp3.1\T08. Balanced Parentheses.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\bin\Debug\netcoreapp3.1\T08. Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\bin\Debug\netcoreapp3.1\T08. Balanced Parentheses.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\bin\Debug\netcoreapp3.1\T08. Balanced Parentheses.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\obj\Debug\netcoreapp3.1\T08. Balanced Parentheses.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\obj\Debug\netcoreapp3.1\T08. Balanced Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\obj\Debug\netcoreapp3.1\T08. Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\obj\Debug\netcoreapp3.1\T08. Balanced Parentheses.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\obj\Debug\netcoreapp3.1\T08. Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\obj\Debug\netcoreapp3.1\T08. Balanced Parentheses.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\obj\Debug\netcoreapp3.1\T08. Balanced Parentheses.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T08. Balanced Parentheses\obj\Debug\netcoreapp3.1\T08. Balanced Parentheses.genruntimeconfig.cache

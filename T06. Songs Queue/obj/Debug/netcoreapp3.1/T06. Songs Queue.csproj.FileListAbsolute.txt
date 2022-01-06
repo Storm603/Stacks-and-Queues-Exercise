@@ -1,0 +1,13 @@
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.exe
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.deps.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\bin\Debug\netcoreapp3.1\T06. Songs Queue.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T06. Songs Queue\obj\Debug\netcoreapp3.1\T06. Songs Queue.genruntimeconfig.cache
