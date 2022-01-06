@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\bin\Debug\netcoreapp3.1\T01. Basic Stack Operator.exe
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\bin\Debug\netcoreapp3.1\T01. Basic Stack Operator.deps.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\bin\Debug\netcoreapp3.1\T01. Basic Stack Operator.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\bin\Debug\netcoreapp3.1\T01. Basic Stack Operator.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\bin\Debug\netcoreapp3.1\T01. Basic Stack Operator.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\bin\Debug\netcoreapp3.1\T01. Basic Stack Operator.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\obj\Debug\netcoreapp3.1\T01. Basic Stack Operator.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\obj\Debug\netcoreapp3.1\T01. Basic Stack Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\obj\Debug\netcoreapp3.1\T01. Basic Stack Operator.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\obj\Debug\netcoreapp3.1\T01. Basic Stack Operator.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\obj\Debug\netcoreapp3.1\T01. Basic Stack Operator.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\obj\Debug\netcoreapp3.1\T01. Basic Stack Operator.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\obj\Debug\netcoreapp3.1\T01. Basic Stack Operator.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T01. Basic Stack Operator\obj\Debug\netcoreapp3.1\T01. Basic Stack Operator.genruntimeconfig.cache

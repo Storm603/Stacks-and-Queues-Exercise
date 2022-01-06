@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\bin\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.exe
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\bin\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.deps.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\bin\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\bin\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\bin\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\bin\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\obj\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\obj\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\obj\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\obj\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\obj\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\obj\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\obj\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T03. Maximum and Minimum Elements\obj\Debug\netcoreapp3.1\T03. Maximum and Minimum Elements.genruntimeconfig.cache

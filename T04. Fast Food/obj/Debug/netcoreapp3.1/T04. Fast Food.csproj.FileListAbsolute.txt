@@ -1,0 +1,13 @@
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.exe
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.deps.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\bin\Debug\netcoreapp3.1\T04. Fast Food.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T04. Fast Food\obj\Debug\netcoreapp3.1\T04. Fast Food.genruntimeconfig.cache
