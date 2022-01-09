@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "T11. Key Revolver/1.0.0": {
+        "runtime": {
+          "T11. Key Revolver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T11. Key Revolver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

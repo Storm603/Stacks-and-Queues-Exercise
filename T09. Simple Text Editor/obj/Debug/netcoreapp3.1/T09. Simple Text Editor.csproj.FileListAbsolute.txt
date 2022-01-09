@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\bin\Debug\netcoreapp3.1\T09. Simple Text Editor.exe
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\bin\Debug\netcoreapp3.1\T09. Simple Text Editor.deps.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\bin\Debug\netcoreapp3.1\T09. Simple Text Editor.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\bin\Debug\netcoreapp3.1\T09. Simple Text Editor.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\bin\Debug\netcoreapp3.1\T09. Simple Text Editor.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\bin\Debug\netcoreapp3.1\T09. Simple Text Editor.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\obj\Debug\netcoreapp3.1\T09. Simple Text Editor.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\obj\Debug\netcoreapp3.1\T09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\obj\Debug\netcoreapp3.1\T09. Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\obj\Debug\netcoreapp3.1\T09. Simple Text Editor.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\obj\Debug\netcoreapp3.1\T09. Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\obj\Debug\netcoreapp3.1\T09. Simple Text Editor.dll
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\obj\Debug\netcoreapp3.1\T09. Simple Text Editor.pdb
+C:\Users\Kristiyan\source\repos\Stacks and Queues Exercise\T09. Simple Text Editor\obj\Debug\netcoreapp3.1\T09. Simple Text Editor.genruntimeconfig.cache
